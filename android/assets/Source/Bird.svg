@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.074516mm"
+   height="66.145836mm"
+   viewBox="0 0 33.074516 66.145837"
+   version="1.1"
+   id="svg911"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Bird.svg"
+   inkscape:export-filename="C:\Users\u0118641\OneDrive\Flock\android\assets\bird.png"
+   inkscape:export-xdpi="95.900002"
+   inkscape:export-ydpi="95.900002">
+  <defs
+     id="defs905">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="98.424996,137.98573"
+       end_point="98.424996,174.10761"
+       center_point="98.424996,156.04667"
+       id="path-effect828"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458-1"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458-1-7"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#181818"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="73.720026"
+     inkscape:cy="20.571956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.2875,-123.17532)">
+    <path
+       style="fill:#330080;stroke:none;stroke-width:0.24870607px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.448383,158.0022 c 9.921877,0.26459 30.932867,11.21062 30.932867,11.21062 0,0 -19.61105,-19.46016 -23.5798,-21.31225 -3.96874,-1.85208 -3.73075,-10.03771 -7.376454,-9.90858 -3.645701,-0.12913 -3.407709,8.0565 -7.376459,9.90858 -3.96875,1.85209 -23.579791,21.31225 -23.579791,21.31225 0,0 21.010988,-10.94603 30.932863,-11.21062"
+       id="path826"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect828"
+       inkscape:original-d="m 98.424996,137.99199 c -3.645701,-0.12913 -3.407709,8.0565 -7.376459,9.90858 -3.96875,1.85209 -23.579791,21.31225 -23.579791,21.31225 0,0 21.010988,-10.94603 30.932863,-11.21062"
+       sodipodi:nodetypes="cccc"
+       transform="matrix(0,1.0683761,-1.0593221,0,193.53838,51.093323)" />
+  </g>
+</svg>

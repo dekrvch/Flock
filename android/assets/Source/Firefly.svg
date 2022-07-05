@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="185.20833mm"
+   height="211.66669mm"
+   viewBox="0 0 185.20833 211.66669"
+   version="1.1"
+   id="svg911"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Firefly.svg"
+   inkscape:export-filename="C:\Users\u0118641\OneDrive\Flock\android\assets\Firefly.png"
+   inkscape:export-xdpi="95.999992"
+   inkscape:export-ydpi="95.999992">
+  <defs
+     id="defs905">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1578">
+      <stop
+         style="stop-color:#3771c8;stop-opacity:0.6"
+         offset="0"
+         id="stop1574" />
+      <stop
+         id="stop1582"
+         offset="0.34731871"
+         style="stop-color:#3771c8;stop-opacity:0.25" />
+      <stop
+         style="stop-color:#3771c8;stop-opacity:0.1"
+         offset="0.64169312"
+         id="stop864" />
+      <stop
+         style="stop-color:#3771c8;stop-opacity:0;"
+         offset="1"
+         id="stop1576" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1578"
+       id="radialGradient1580"
+       cx="275.82217"
+       cy="224.30269"
+       fx="275.82217"
+       fy="224.30269"
+       r="73.052925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2699309,0,0,1.2699309,-257.67095,-48.299642)" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458-1"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="189.49305,126.14796"
+       end_point="189.49409,163.76614"
+       center_point="189.49357,144.95705"
+       id="path-effect1458-1-7"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#181818"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="424.47918"
+     inkscape:cy="763.41377"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.2574751e-6,-117.48676)">
+    <circle
+       style="opacity:1;vector-effect:none;fill:url(#radialGradient1580);fill-opacity:1;stroke:none;stroke-width:0.26458326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path1462-1"
+       cx="92.604164"
+       cy="236.54929"
+       inkscape:export-filename="C:\Users\u0118641\OneDrive\Flock\android\assets\Source\flash.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"
+       r="92.604164" />
+    <path
+       style="fill:#162d50;stroke:none;stroke-width:0.37573496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.49305,123.26801 c -2.00848,0.0985 -12.2758,22.16488 -15.63422,30.07462 -3.9954,9.40995 -0.18851,10.39852 1.44173,10.48488 4.71061,0.24954 10.01533,-15.74295 14.19536,-15.89442 m -0.003,-24.66508 c 2.00849,0.0984 12.27703,22.1642 15.63588,30.07376 3.99592,9.40972 0.18909,10.39851 -1.44115,10.48496 -4.71059,0.2498 -10.0162,-15.7424 -14.19624,-15.89364"
+       id="path1456-6"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1458-1"
+       inkscape:original-d="m 189.49305,123.26801 c -2.00848,0.0985 -12.2758,22.16488 -15.63422,30.07462 -3.9954,9.40995 -0.18851,10.39852 1.44173,10.48488 4.71061,0.24954 10.01533,-15.74295 14.19536,-15.89442"
+       sodipodi:nodetypes="cssc"
+       transform="matrix(0,0.76025501,-0.65223248,0,106.85773,-13.347825)"
+       inkscape:export-filename="C:\Users\u0118641\OneDrive\Flock\android\assets\Source\FF_off.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:#80b3ff;fill-opacity:1;stroke:none;stroke-width:0.37573496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.49305,123.26801 c -2.00848,0.0985 -12.2758,22.16488 -15.63422,30.07462 -3.9954,9.40995 -0.18851,10.39852 1.44173,10.48488 4.71061,0.24954 10.01533,-15.74295 14.19536,-15.89442 m -0.003,-24.66508 c 2.00849,0.0984 12.27703,22.1642 15.63588,30.07376 3.99592,9.40972 0.18909,10.39851 -1.44115,10.48496 -4.71059,0.2498 -10.0162,-15.7424 -14.19624,-15.89364"
+       id="path1456-6-5"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1458-1-7"
+       inkscape:original-d="m 189.49305,123.26801 c -2.00848,0.0985 -12.2758,22.16488 -15.63422,30.07462 -3.9954,9.40995 -0.18851,10.39852 1.44173,10.48488 4.71061,0.24954 10.01533,-15.74295 14.19536,-15.89442"
+       sodipodi:nodetypes="cssc"
+       transform="matrix(0,0.76025502,-0.65223247,0,133.31495,-13.347827)"
+       inkscape:export-filename="C:\Users\u0118641\OneDrive\Flock\android\assets\Source\FF_off.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+  </g>
+</svg>
